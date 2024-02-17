@@ -1,6 +1,6 @@
 // //Question # 02:
  let myName:string = "Kanwal";
- console.log(`${myName}, whould you like to learn some typescript today`);
+ console.log(`Hello ${myName}, whould you like to learn some typescript today`);
 
 // //Question # 03:
  let yourName:string = "fiza"
