@@ -6,8 +6,8 @@
  let yourName:string = "fiza"
  console.log(yourName.toUpperCase());
  console.log(yourName.toLowerCase());
-      // console.log(yourName.toTitlecase()) ==> sorry i cand find title case in ttypescript,
-
+ console.log(yourName.charAt(0).toUpperCase() + yourName.slice(1).toLowerCase())
+      
  // Question # 04:
  let autherName:string = "Walt Disney"
  console.log(`${autherName} Once said,"It is fun to do the impossible."`);
